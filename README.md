@@ -12,6 +12,11 @@
 - **Frontend:** React.js, Vite, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **APIs:** Genius API, Spotify Web API
+## 🤖 Development Process
+This project was developed using **Cursor**, an AI-powered code editor. By leveraging AI-assisted pair programming, I was able to:
+- Accelerate the integration of Genius and Spotify APIs.
+- Streamline the debugging process and maintain a clean code structure.
+- Optimize the front-end layout with Tailwind CSS more efficiently.
 
 ## ⚙️ Setup & Installation
 1. Clone the repository: `git clone https://github.com/berkayarsln/LyricMetric.git`
@@ -21,7 +26,7 @@
    GENIUS_ACCESS_TOKEN=your_token
    SPOTIFY_CLIENT_ID=your_id
    SPOTIFY_CLIENT_SECRET=your_secret
-   
+
 4. Run the server: npm run server
 
 5.Start the frontend: npm run dev
